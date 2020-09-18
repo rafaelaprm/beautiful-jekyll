@@ -14,7 +14,7 @@ author: Rafaela Sousa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Início: ""
+  Início: "https://rafaelaprm.github.io/"
   Sobre: "sobre"
   Projetos:
     - Github: "https://github.com/rafaelaprm"
