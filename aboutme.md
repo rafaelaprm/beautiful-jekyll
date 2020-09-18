@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mim
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Olá, pessoas! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Universidade do Estado do Amazonas (UEA). Atualmente trabalho como Analista de Inteligência Artificial na Bemol Digital, integrando o time de IA da empresa. 
 
-What else do you need?
+- 🌱 Apaixonada por Python e Pandas <3
+- 👯 Faço parte da comunidade PyLadies Manaus. 
+- ⚡ Nas horas vagas, gosto de jogar The Sims, assistir sitcoms e filmes de ficção científica.
+- ✨ Linguagens e ferramentas: 
+      
+      (Intermediário) Python, Numpy, Pandas, Matplotlib. 
+      
+      (Básico) C, C++, LaTeX, Git, Java, Javascript, Qt/PyQt, HTML, CSS.
 
-### My story
+- 👩‍💻 Estou estudando para obter mais conhecimento nas áreas de Aprendizado de Máquina, Ciência de Dados e Desenvolvimento de Software.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Em 2020, fiz parte do SummerLab do Serasa Experian Datalab, lidando com Responsabilidade e Impacto Social em algoritmos de Aprendizado de Máquina. A experiência foi tão incrível que pretendo seguir nessa área de estudo. 
