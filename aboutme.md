@@ -15,6 +15,7 @@ Meu nome é Rafaela Sousa e sou graduada em Engenharia de Computação pela Univ
       (Intermediário) Python, Numpy, Pandas, Matplotlib. 
       
       (Básico) C, C++, LaTeX, Git, Java, Javascript, Qt/PyQt, HTML, CSS.
+      
 
 - 👩‍💻 Estou estudando para obter mais conhecimento nas áreas de Aprendizado de Máquina, Ciência de Dados e Desenvolvimento de Software.
 
