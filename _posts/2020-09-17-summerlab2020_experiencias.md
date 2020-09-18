@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estágio de Verão no Serasa Datalab Experian
+title: Estágio de Verão no Serasa Experian Datalab
 subtitle: O que eu aprendi?
 cover-img: /assets/img/serasa.jpg
 thumbnail-img: /assets/img/thumb.png
