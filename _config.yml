@@ -17,8 +17,8 @@ navbar-links:
   Início: ""
   Sobre: "sobre"
   Projetos:
-    - Github: "https://beautifuljekyll.com"
-    - Palestras: "https://www.markdowntutorial.com/"
+    - Github: "https://github.com/rafaelaprm"
+    - Palestras: "palestras"
 
 # --- Logo --- #
 
